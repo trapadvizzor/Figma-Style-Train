@@ -2,11 +2,6 @@ body {
   background-color: #464BBC;
 }
 
-header {
-  border: 5px solid #794949;
-  background-color: #1E1E1E;
-}
-
 header a {
   border-radius: 20px;
   background: #464BBC;

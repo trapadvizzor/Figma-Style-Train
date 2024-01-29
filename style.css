@@ -5,6 +5,8 @@ body {
 header {
   border: 5px solid #794949;
   background-color: #1E1E1E;
+  width: 762px;
+  height: 117px;
 }
 
 header a {

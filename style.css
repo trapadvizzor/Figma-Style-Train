@@ -6,7 +6,7 @@ header {
   height: 117px;
   flex-shrink: 0;
   border: 2px solid #794949;
-  background: #1E1E1E;
+  background-color: #1E1E1E;
 }
 
 .menu {
@@ -30,5 +30,24 @@ header {
 }
 
 .secM {  
-  
+  border-radius: 20px;
+  background: #464BBC;
+  display: flex;
+  width: 134px;
+  height: 36px;
+  flex-direction: column;
+  justify-content: center;
+  flex-shrink: 0;
+  color: #1E1E1E;
+  text-align: center;
+  font-family: Karla;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top 40px;
+  margin-right: 601px;
+  margin-bottom: 41px;
+  margin-left: 27px;
+  text-decoration: none;
 }
